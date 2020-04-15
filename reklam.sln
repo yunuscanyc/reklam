@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reklam", "reklam\reklam.csproj", "{36EABD83-4CB2-40C4-A35E-6DAA2117B337}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupReklam", "SetupReklam\SetupReklam.vdproj", "{90275B20-95A2-4D4E-AD6B-1F07C7F94A75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36EABD83-4CB2-40C4-A35E-6DAA2117B337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36EABD83-4CB2-40C4-A35E-6DAA2117B337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36EABD83-4CB2-40C4-A35E-6DAA2117B337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36EABD83-4CB2-40C4-A35E-6DAA2117B337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90275B20-95A2-4D4E-AD6B-1F07C7F94A75}.Debug|Any CPU.ActiveCfg = Debug
+		{90275B20-95A2-4D4E-AD6B-1F07C7F94A75}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD925B25-10DE-4D9C-8EC2-72D5BFDC7CE8}
+	EndGlobalSection
+EndGlobal
